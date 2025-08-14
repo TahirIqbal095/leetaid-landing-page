@@ -37,7 +37,7 @@ export default function Landing() {
                 <div className="flex items-center gap-3">
                     <ThemeToggle />
                     <a
-                        href="https://github.com/"
+                        href="https://github.com/TahirIqbal095/leetaid"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-background/70 hover:bg-muted inline-flex h-9 w-9 items-center justify-center rounded-md backdrop-blur transition-colors"
